@@ -1,1 +1,0 @@
-# ICT4SM_lab1
